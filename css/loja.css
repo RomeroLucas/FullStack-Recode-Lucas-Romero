@@ -1,0 +1,23 @@
+main {
+    display: flex;
+}
+
+main div {
+    width: 30%;
+    margin: 15px auto;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 8px black inset;
+    border-radius: 24px;
+}
+
+h3 {
+    font-size: 1.8rem;
+    color: #c7d5e0;
+    text-shadow: 0px 0px 3px black;
+}
+
+p {
+    font-size: 1.6rem;
+    font-weight: 600;
+}
